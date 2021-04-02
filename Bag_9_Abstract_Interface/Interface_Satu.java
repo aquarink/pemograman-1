@@ -1,0 +1,15 @@
+package Bag_9_Abstract_Interface;
+
+public interface Interface_Satu {
+
+    int MAX_VOLUME = 100;
+    int MIN_VOLUME = 0;
+
+    void powerOn();
+
+    void powerOff();
+
+    void volumeUp();
+
+    void volumeDown();
+}
